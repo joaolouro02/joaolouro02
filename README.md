@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-My name is João Louro and I'm 21 years old. I'm living in Castelo Branco, Portugal. I have currently finishing my Bachelor degree in Computer Science.
+My name is João Louro and I'm 21 years old. I'm living in Castelo Branco, Portugal. I recently finished my Bachelor's degree in Computer Science.
 
 
 ## Skills 🚀
